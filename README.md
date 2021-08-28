@@ -8,7 +8,7 @@ In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the Re
 
     Fn = Fn-1 + Fn-2
     
-with seed values  
+with seed values,  
 
    F0 = 0 and F1 = 1.
 
